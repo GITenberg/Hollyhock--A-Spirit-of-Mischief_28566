@@ -1,0 +1,47 @@
+_repo: Hollyhock--A-Spirit-of-Mischief_28566
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, H. W. (H. William)
+    - Rainey, W.
+    - Rainey, William
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 28566-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Mead, L. T.
+    - Meade, Mrs. L. T.
+    - Meade, Elizabeth Thomasina
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Lillie
+    - Thomas, Elizabeth
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2009-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Scotland -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Hollyhock: A Spirit of Mischief'
+url: http://www.gutenberg.org/ebooks/28566
